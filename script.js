@@ -268,7 +268,63 @@ const quizData = [
         correctAnswer: 1
     },
 
+    {
+            question: "ما هو عمل الأداة المشار إليها في الصورة؟",
+            answers: [
+                "إدراج أيقونات",
+                "إدراج شكل",
+                "إدراج صورة",
+                "إدراج SmartArt"
+            ],
+            correctAnswer: 0,
+            image: "assets/images/icon.jpg"
+    },
+    {
+            question: "ما هو عمل الأداة المشار إليها في الصورة؟",
+            answers: [
+                "إدراج صورة",
+                "إدراج أيقونات",
+                "إدراج 3D Models",
+                "إدراج SmartArt"
+            ],
+            correctAnswer: 0,
+            image: "assets/images/pic.jpg"
+    },
+    {
+            question: "ما هو عمل الأداة المشار إليها في الصورة؟",
+            answers: [
+                "إدراج أيقونات",
+                "إدراج شكل",
+                "إدراج صورة",
+                "إدراج مخطط"
+            ],
+            correctAnswer: 1,
+            image: "assets/images/shape.jpg"
+    },
+    {
+            question: "ما هو عمل الأداة المشار إليها في الصورة؟",
+            answers: [
+                "إدراج مخطط",
+                "إدراج SmartArt",
+                "إدراج صورة",
+                "إدراج 3D Models"
+            ],
+            correctAnswer: 1,
+            image: "assets/images/art.jpg"
+    },
+    {
+            question: "ما هو عمل الأداة المشار إليها في الصورة؟",
+            answers: [
+                "إدراج صورة",
+                "إدراج مخطط",
+                "إدراج SmartArt",
+                "إدراج 3D Models"
+            ],
+            correctAnswer: 1,
+            image: "assets/images/chart.jpg"
+    },
 ];
+    
 
 
 
